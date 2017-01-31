@@ -1,0 +1,10 @@
+1.git config --global user.name "Jiawen Liu"
+  git config --global user.email "jili0915@colorado.edu"
+2.git clone ...
+3.vim README
+4.git add README
+5.git commit README
+6.vim process.txt
+7.git add process.txt
+8.git commit process.txt
+
