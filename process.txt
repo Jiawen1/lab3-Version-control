@@ -7,4 +7,6 @@
 6.vim process.txt
 7.git add process.txt
 8.git commit process.txt
-
+9.git branch testing..
+10.git checkout testing..
+11.git checkout master
